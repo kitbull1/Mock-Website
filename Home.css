@@ -1,0 +1,243 @@
+.HomeHeader {
+  background-color: gainsboro;
+  height: 9.66vh;
+  top: -1px;
+  left: -1px;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+
+.left-margin {
+  margin-left: 8.32vw;
+}
+
+.alignment-1 {
+  margin-top: -33vh;
+  padding-right: 5.96vw;
+}
+
+.alignment-2 {
+  margin-top: -40.25vh;
+  margin-left: 15vw;
+  padding: 0px 0px 0px 0px;
+}
+
+.size-1 {
+  height: 45vh;
+}
+
+.container-2 {
+  background-color: #f5faff;
+  width: 65vw;
+  height: 38.8vh;
+}
+
+.container-3 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 4.21%;
+}
+.font-1 {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  /* identical to box height */
+  font-size: 125%;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+}
+.font-2 {
+  font-weight: 500;
+  font-family: Domaine Display Test;
+  font-size: 300%;
+  line-height: 120%;
+}
+
+.sz-2 {
+  font-size: 48px;
+}
+
+.font-3 {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 21px;
+  color: #164e83;
+}
+
+.size-2 {
+  height: 16.67px;
+}
+
+.alignment-3 {
+  padding-right: 10px;
+}
+.alignment-4 {
+  margin-left: 43.8vw;
+  padding-top: 30vh;
+  padding-bottom: 8.7vh;
+}
+
+.font-4 {
+  font-family: Domaine Display Test;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #1b2d45;
+}
+.part-2 {
+  height: 96.66vh;
+}
+.alignment-5 {
+  padding-top: 4.1vh;
+  padding-bottom: 4.44vh;
+}
+
+.for-scrolling {
+  height: 73.5vh;
+  width: 82.8vw;
+  overflow: scroll;
+}
+
+.for-scrolling .outer-div {
+  height: 14.22vh;
+  width: 82.8vw;
+  position: relative;
+}
+
+.for-scrolling .border {
+  width: 82.8w;
+  border-bottom: solid;
+}
+
+.for-scrolling .outer-div .font-1 {
+  font-family: "DM Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0;
+  text-transform: capitalize;
+  color: #435579;
+}
+.for-scrolling .outer-div .font-2 {
+  font-family: "DM Sans", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  text-transform: capitalize;
+  color: #1b2d45;
+}
+.for-scrolling .outer-div .font-3 {
+  font-family: "DM Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 21px;
+  text-transform: capitalize;
+  color: #7b88a1;
+}
+
+.for-scrolling .padding-top {
+  padding-top: 2.66vh;
+}
+
+.for-scrolling .outer-div .margin-left {
+  margin-left: 1.66vw;
+}
+
+.part-3 {
+  height: 95vh;
+  background: linear-gradient(180deg, #fbfbfd 0%, #fbfbfd 100%);
+}
+
+.part-3 .img-size {
+  height: 60vh;
+}
+.part-3 .img-align {
+  margin-top: 9vh;
+  margin-left: 8.33vw;
+  padding-right: 5.55vw;
+}
+
+.part-3 .font {
+  font-family: "DM Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 170%;
+  color: #435579;
+}
+.part-3 .text-align {
+  margin-right: 8.33vw;
+  margin-top: 31.35vh;
+  padding-bottom: ;
+}
+
+.part-4 .heading {
+  margin-top: 6.66vh;
+  font-family: Domaine Display Test;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #1b2d45;
+}
+.part-4 .main {
+  margin-top: 2.66vh;
+  margin-right: 44vw;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 170%;
+  /* or 34px */
+  color: #435579;
+}
+.part-4 .cards {
+  margin-left: 2.5vw;
+  margin-top: 6.66vh;
+}
+.part-4 .dist {
+  margin-right: 1.66vw;
+}
+.part-4 .sz1 {
+  width: 25vw;
+  height: 48.88vh;
+}
+.part-4 .sz2 {
+  width: 20vw;
+}
+.part-4 .marg {
+  margin-left: 1.66vw;
+}
+.part-4 .one {
+  margin-top: 0.83vw;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #435579;
+}
+.part-4 .two {
+  font-family: Domaine Display Test;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 31px;
+  letter-spacing: 0.02em;
+  color: #1b2d45;
+}
+
+.btn {
+  background-color: rgb(179, 224, 252);
+}
